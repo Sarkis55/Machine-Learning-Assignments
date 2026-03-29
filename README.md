@@ -5,8 +5,6 @@ This repository contains a collection of machine learning assignments implemente
 ## 📂 Project Structure
 
 The repository consists of five main notebooks:
-
-Housing Prices Analysis
 - CA01 - House Prices EDA
 - CA02 – Naive Bayes Spam Filter
 - CA03 – Decision Trees
